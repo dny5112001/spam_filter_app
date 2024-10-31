@@ -44,8 +44,12 @@ Note: The app needs to be tested on a physical device to access SMS functionalit
 
 Screenshots
 Below are screenshots from the emulator. Please note that you will not be able to view messages in the emulator; testing on a physical device is required.
-![image](https://github.com/user-attachments/assets/05b3fc26-12bd-46f7-ac40-1e85058df614)
 
+
+
+
+
+![image](https://github.com/user-attachments/assets/05b3fc26-12bd-46f7-ac40-1e85058df614)
 ![image](https://github.com/user-attachments/assets/cec8d920-7c77-4554-a98a-4279947a7d0f)
 
 
